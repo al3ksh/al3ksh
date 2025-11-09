@@ -1,16 +1,29 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**al3ksh/al3ksh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me  
 
-Here are some ideas to get you started:
+I’m a Computer Science student at the Silesian University of Technology  
+Certified in **INF.03** (Web Dev & Databases) and **INF.04** (App Development)  
+Backend & Web Developer — building efficient web applications  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ✦ Focus
+Backend architecture • Databases • Clean code
+
+---
+
+### ✦ Technologies
+`Node.js` `Express` `MongoDB` `MySQL`  
+`JavaScript` `TypeScript` `EJS`
+
+---
+
+### ✦ Working On
+Personal portfolio • Improving full-stack skills
+
+---
+
+🌸
+
+</div>
